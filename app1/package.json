@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@platform/shared": "file:../shared",
-    "next": "16.0.1",
+    "next": "16.1.7",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
